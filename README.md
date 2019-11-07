@@ -1,4 +1,4 @@
-ENUMERATION
+ENUMERATION use full
     
     All around scanner
        • python3 autorecon.py $ip -v
